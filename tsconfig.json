@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "module": "esnext",
+    "target": "es2017",
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "baseUrl": "src",
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ]
+}
